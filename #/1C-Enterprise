@@ -1,0 +1,8 @@
+// A Hello World Program written in 1C:Enterprise scripting language.
+// Researched and written by Undying Soul 2019-03-22
+// Request #12
+
+// 1C:Enterprise seems to be an application designed to develop business applications
+// these applications are typically hosted through the internet.
+
+Message("Hello, World!");
