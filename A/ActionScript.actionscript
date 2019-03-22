@@ -1,0 +1,10 @@
+/* A Hello World Program written in Adobe ActionScript language
+   Researched and Written by Undying Soul on 2019-03-22
+   Request #13
+
+   ActionScript is associated with Flash by Adobe It doesn't
+   skimp out on power, but is easy to learn. 
+*/
+
+// For Flash 5 (Other versions of Flash will be different)
+trace("Hello, world!");
