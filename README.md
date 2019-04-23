@@ -3,6 +3,8 @@
 * [Readme](%23%5CREADME.md)
 * [Actionscript](A%5CActionScript.actionscript)
 * [Readme](A%5CREADME.md)
+* [Xquery](X%5CXQuery.xq)
+* [Readme](Y%5CREADME.md)
 * [Yacas](Y%5CYacas.ys)
 * [Readme](Z%5CREADME.md)
 * [Zephir](Z%5CZephir.zep)
