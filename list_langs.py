@@ -4,7 +4,9 @@
 import os
 from urllib.parse import quote
 
+
 readme = open('README.md', 'w')
+
 
 # Copy template to README
 with open('README_nolist.md', 'r') as temp:
@@ -21,5 +23,8 @@ for dirname in sorted(os.listdir('.')):
       if os.path.isfile(os.path.join(dirname, filename)):
         lang = os.path.splitext(filename)[0].replace('-', ' ').replace('_', ' ').title()
         readme.write('* [{}]({})\n'.format(lang, quote(os.path.join(dirname, filename))))
+      subReadmeFN = os.path.join(dirname)+ '\\' + 'README.md'
+      subReadme = open(subReadmeFN, 'w')
+      subReadme.write('* [{}]({})\n'.format(lang, quote(os.path.join(filename))))
 
 readme.close()
