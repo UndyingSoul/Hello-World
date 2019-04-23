@@ -1,2 +1,1 @@
-* [Readme](README.md)
-terprise)
+* [1C Enterprise](1C-Enterprise)

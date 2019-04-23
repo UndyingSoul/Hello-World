@@ -1,2 +1,1 @@
-* [Readme](README.md)
-Script.actionscript)
+* [Actionscript](ActionScript.actionscript)

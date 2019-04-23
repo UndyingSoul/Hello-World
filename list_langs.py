@@ -20,11 +20,12 @@ readme.write('### This repository currently contains "Hello World" programs in t
 for dirname in sorted(os.listdir('.')):
   if not (dirname == '.' or dirname == '..' or dirname[0] == '.' or os.path.isfile(dirname)):
     for filename in sorted(os.listdir(dirname), key=lambda s: s.lower()):
-      if os.path.isfile(os.path.join(dirname, filename)):
-        lang = os.path.splitext(filename)[0].replace('-', ' ').replace('_', ' ').title()
-        readme.write('* [{}]({})\n'.format(lang, quote(os.path.join(dirname, filename))))
-      subReadmeFN = os.path.join(dirname)+ '\\' + 'README.md'
-      subReadme = open(subReadmeFN, 'w')
-      subReadme.write('* [{}]({})\n'.format(lang, quote(os.path.join(filename))))
+      if not (filename == 'README.md'):
+        if os.path.isfile(os.path.join(dirname, filename)):
+          lang = os.path.splitext(filename)[0].replace('-', ' ').replace('_', ' ').title()
+          readme.write('* [{}]({})\n'.format(lang, quote(os.path.join(dirname, filename))))
+        subReadmeFN = os.path.join(dirname)+ '\\' + 'README.md'
+        subReadme = open(subReadmeFN, 'w')
+        subReadme.write('* [{}]({})\n'.format(lang, quote(os.path.join(filename))))
 
 readme.close()
