@@ -1,6 +1,7 @@
 ### This repository currently contains "Hello World" programs in the following languages:
 * [1C Enterprise](%23%5C1C-Enterprise)
 * [Actionscript](A%5CActionScript.actionscript)
+* [Batch](B%5CBatch.bat)
 * [Node.Js](N%5CNode.js.js)
 * [Volt](V%5CVolt.volt)
 * [Wsh](W%5CWSH.wsh)
