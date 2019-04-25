@@ -2,6 +2,7 @@
 * [1C Enterprise](%23%5C1C-Enterprise)
 * [Actionscript](A%5CActionScript.actionscript)
 * [Batch](B%5CBatch.bat)
+* [C++](C%5CC%2B%2B.cpp)
 * [Node.Js](N%5CNode.js.js)
 * [Volt](V%5CVolt.volt)
 * [Wsh](W%5CWSH.wsh)
