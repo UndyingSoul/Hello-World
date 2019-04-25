@@ -7,6 +7,7 @@
 * [Elixir](E%5CElixir.ex)
 * [F#](F%5CF%23.fs)
 * [Go](G%5CGo.go)
+* [Haskell](H%5CHaskell.hs)
 * [Node.Js](N%5CNode.js.js)
 * [Volt](V%5CVolt.volt)
 * [Wsh](W%5CWSH.wsh)
