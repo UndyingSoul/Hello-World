@@ -16,6 +16,7 @@
 * [Node.Js](N%5CNode.js.js)
 * [Objective C](O%5CObjective-C.m)
 * [Perl](P%5CPerl.pl)
+* [Quakec](Q%5CQuakeC.qc)
 * [Volt](V%5CVolt.volt)
 * [Wsh](W%5CWSH.wsh)
 * [Xquery](X%5CXQuery.xq)
