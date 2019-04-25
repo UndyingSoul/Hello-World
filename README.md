@@ -18,6 +18,7 @@
 * [Perl](P%5CPerl.pl)
 * [Quakec](Q%5CQuakeC.qc)
 * [Red](R%5CRed.red)
+* [Sql](S%5CSQL.sql)
 * [Volt](V%5CVolt.volt)
 * [Wsh](W%5CWSH.wsh)
 * [Xquery](X%5CXQuery.xq)
