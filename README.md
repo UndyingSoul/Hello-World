@@ -20,6 +20,7 @@
 * [Red](R%5CRed.red)
 * [Sql](S%5CSQL.sql)
 * [Typescript](T%5CTypeScript.ts)
+* [Unrealscript](U%5CUnrealScript.us)
 * [Volt](V%5CVolt.volt)
 * [Wsh](W%5CWSH.wsh)
 * [Xquery](X%5CXQuery.xq)
