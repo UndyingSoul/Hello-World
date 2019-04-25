@@ -10,6 +10,7 @@
 * [Haskell](H%5CHaskell.hs)
 * [Io](I%5CIO.io)
 * [Java](J%5CJava.java)
+* [Kotlin](K%5CKotlin.kt)
 * [Node.Js](N%5CNode.js.js)
 * [Volt](V%5CVolt.volt)
 * [Wsh](W%5CWSH.wsh)
