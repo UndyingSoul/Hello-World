@@ -5,6 +5,7 @@
 * [C++](C%5CC%2B%2B.cpp)
 * [Darkbasic](D%5CDarkbasic.dbpro)
 * [Elixir](E%5CElixir.ex)
+* [F#](F%5CF%23.fs)
 * [Node.Js](N%5CNode.js.js)
 * [Volt](V%5CVolt.volt)
 * [Wsh](W%5CWSH.wsh)
