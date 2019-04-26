@@ -24,5 +24,6 @@
 * [Volt](V%5CVolt.volt)
 * [Wsh](W%5CWSH.wsh)
 * [Xquery](X%5CXQuery.xq)
+* [Xtend](X%5CXtend.ext)
 * [Yacas](Y%5CYacas.ys)
 * [Zephir](Z%5CZephir.zep)
