@@ -13,6 +13,8 @@
 * [Kotlin](K%5CKotlin.kt)
 * [Lua](L%5CLua.lua)
 * [Matlab](M%5CMatlab.m)
+* [Nim](N%5CNim.nim)
+* [Nit](N%5CNit.nit)
 * [Node.Js](N%5CNode.js.js)
 * [Objective C](O%5CObjective-C.m)
 * [Perl](P%5CPerl.pl)
