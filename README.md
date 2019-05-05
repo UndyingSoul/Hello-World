@@ -23,6 +23,7 @@
 * [Sql](S%5CSQL.sql)
 * [Typescript](T%5CTypeScript.ts)
 * [Unrealscript](U%5CUnrealScript.us)
+* [Visual Basic](V%5CVisual%20Basic.vb)
 * [Volt](V%5CVolt.volt)
 * [Wsh](W%5CWSH.wsh)
 * [Xquery](X%5CXQuery.xq)
