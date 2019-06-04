@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 #Found here: https://github.com/leachim6/hello-world/blob/master/list_langs.py
+#Only minor modifications were made.
 
 import os
 from urllib.parse import quote
@@ -25,7 +26,8 @@ for dirname in sorted(os.listdir('.')):
       if not (filename == 'README.md'):
         if os.path.isfile(os.path.join(dirname, filename)):
           lang = os.path.splitext(filename)[0].replace('-', ' ').replace('_', ' ').title()
-          readme.write('* [{}]({})\n'.format(lang, quote(os.path.join(dirname, filename))))
+          line = '* [{}]({})\n'.format(lang, quote(os.path.join(dirname, filename)))
+          readme.write(line.replace('%5C', '/'))
         subReadme.write('* [{}]({})\n'.format(lang, quote(os.path.join(filename))))
 
 readme.close()
