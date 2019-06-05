@@ -22,6 +22,7 @@ This repository is aimed to provide beginners with a starting point in their pro
 * [Node.Js](N/Node.js.js)
 * [Objective C](O/Objective-C.m)
 * [Perl](P/Perl.pl)
+* [Php](P/PHP.php)
 * [Quakec](Q/QuakeC.qc)
 * [Red](R/Red.red)
 * [Sql](S/SQL.sql)
