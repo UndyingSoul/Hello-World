@@ -9,11 +9,6 @@ from urllib.parse import quote
 readme = open('README.md', 'w')
 
 
-# Copy template to README
-with open('README_nolist.md', 'r') as temp:
-  for line in temp:
-    readme.write(line)
-
 # Write title
 readme.write('# Welcome\nThis repository is aimed to provide beginners with a starting point in their programming career. This project was inspired by [this GitHub repository](https://github.com/leachim6/hello-world). I thought that this would be a fun project to start, and my initial intentions were to do one language/day, but it\'s more sporatic than anything. Anyway, I hope you enjoy your stay, if there is anything I can do for you, feel free to sene me a message!\n ## This repository currently contains "Hello World" programs in the following conputer languages:\n')
 
