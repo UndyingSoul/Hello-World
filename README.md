@@ -10,6 +10,7 @@ This repository is aimed to provide beginners with a starting point in their pro
 * [Elixir](E/Elixir.ex)
 * [F#](F/F%23.fs)
 * [Go](G/Go.go)
+* [Groovy](G/Groovy.groovy)
 * [Haskell](H/Haskell.hs)
 * [Io](I/IO.io)
 * [Java](J/Java.java)
