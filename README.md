@@ -30,6 +30,7 @@ This repository is aimed to provide beginners with a starting point in their pro
 * [Unrealscript](U/UnrealScript.us)
 * [Visual Basic](V/Visual%20Basic.vb)
 * [Volt](V/Volt.volt)
+* [Wisp](W/Wisp.wisp)
 * [Wsh](W/WSH.wsh)
 * [Xquery](X/XQuery.xq)
 * [Xtend](X/Xtend.ext)
