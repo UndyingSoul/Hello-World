@@ -21,6 +21,7 @@ This repository is aimed to provide beginners with a starting point in their pro
 * [Nit](N/Nit.nit)
 * [Node.Js](N/Node.js.js)
 * [Objective C](O/Objective-C.m)
+* [Oz](O/Oz.oz)
 * [Perl](P/Perl.pl)
 * [Php](P/PHP.php)
 * [Quakec](Q/QuakeC.qc)
