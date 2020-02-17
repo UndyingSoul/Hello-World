@@ -4,6 +4,7 @@ This repository is aimed to provide beginners with a starting point in their pro
 * [1C Enterprise](%23/1C-Enterprise)
 * [Actionscript](A/ActionScript.actionscript)
 * [Batch](B/Batch.bat)
+* [Beef](B/Beef.bf)
 * [C++](C/C%2B%2B.cpp)
 * [Css](C/CSS.css)
 * [Darkbasic](D/Darkbasic.dbpro)
