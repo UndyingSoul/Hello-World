@@ -1,6 +1,6 @@
 # Welcome
 This repository is aimed to provide beginners with a starting point in their programming career. This project was inspired by [this GitHub repository](https://github.com/leachim6/hello-world). I thought that this would be a fun project to start, and my initial intentions were to do one language/day, but it's more sporatic than anything. Anyway, I hope you enjoy your stay, if there is anything I can do for you, feel free to sene me a message!
- ## This repository currently contains "Hello World" programs in the following computer languages:
+ ## This repository currently contains "Hello World" programs in the following conputer languages:
 * [1C Enterprise](%23/1C-Enterprise)
 * [Actionscript](A/ActionScript.actionscript)
 * [Batch](B/Batch.bat)
@@ -28,6 +28,7 @@ This repository is aimed to provide beginners with a starting point in their pro
 * [Quakec](Q/QuakeC.qc)
 * [Red](R/Red.red)
 * [Sql](S/SQL.sql)
+* [Swift](S/Swift.swift)
 * [Typescript](T/TypeScript.ts)
 * [Unrealscript](U/UnrealScript.us)
 * [Visual Basic](V/Visual%20Basic.vb)
