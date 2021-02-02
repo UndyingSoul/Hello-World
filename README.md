@@ -29,6 +29,7 @@ This repository is aimed to provide beginners with a starting point in their pro
 * [Quakec](Q/QuakeC.qc)
 * [Red](R/Red.red)
 * [Sql](S/SQL.sql)
+* [Swift](S/Swift.swift)
 * [Typescript](T/TypeScript.ts)
 * [Unrealscript](U/UnrealScript.us)
 * [Visual Basic](V/Visual%20Basic.vb)
