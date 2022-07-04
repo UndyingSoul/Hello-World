@@ -14,6 +14,7 @@ This repository is aimed to provide beginners with a starting point in their pro
 * [Go](G/Go.go)
 * [Groovy](G/Groovy.groovy)
 * [Haskell](H/Haskell.hs)
+* [Idris](I/Idris.idr)
 * [Io](I/IO.io)
 * [Java](J/Java.java)
 * [Kotlin](K/Kotlin.kt)
